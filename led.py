@@ -8,10 +8,6 @@ BLUE_PIN  = 24
 STEPS     = 1
 
 ###### END ######
-
-
-
-
 import os
 import sys
 import termios
