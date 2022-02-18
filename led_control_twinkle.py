@@ -4,7 +4,7 @@ import time
 
 GPIO.setmode(GPIO.BCM)
 
-RED_PIN   = 17
+RED_PIN   = 27
 GREEN_PIN = 22
 BLUE_PIN  = 24
 
