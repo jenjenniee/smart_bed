@@ -1,5 +1,5 @@
 # smart_bed
-해당 프로그램은 [2022 보조공학기기 개발] 프로젝트의 연구를 위해 만들어졌습니다.
+해당 프로그램은 [2022 보조공학기기 개발] 프로젝트의 연구를 위해 만들어졌습니다.<br>
 The development of an electric height control massage bed based on the artificial intelligence
 
 Ⅰ. 개발의 필요성
