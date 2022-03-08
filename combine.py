@@ -178,7 +178,6 @@ class Bed:
         gp.cleanup()
 
 
-
 if __name__=='__main__':
     
     try:
