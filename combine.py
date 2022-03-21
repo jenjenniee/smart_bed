@@ -60,10 +60,11 @@ class Bed:
 
     #control according to direction,time
     def control(self,led):
-        led("off") # 초기화 후 색 변환
+
         try:
             pwm_up, pwm_down, _ , _ = self.gpio_setup(led)
             #up
+            led("off")
             if self.dir == "up":
                 print("up")
                 pwm = pwm_up
@@ -102,15 +103,15 @@ class Bed:
                 pwm1 = pwm_down2
 
             j = 0
+            led("green")
             while True:
                 pwm.ChangeDutyCycle(j)
                 pwm1.ChangeDutyCycle(j)
                 sleep(1)
-                led("blue")
                 if j >= self.c_time:
                     break
                 j += 1
-            led("green")
+            led("blue")
             pwm.ChangeDutyCycle(0) 
             pwm1.ChangeDutyCycle(0) 
             pwm.stop()
@@ -201,4 +202,3 @@ if __name__=='__main__':
         user1.run()
     except:
         print("error error")
-    
