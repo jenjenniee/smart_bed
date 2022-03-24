@@ -1,0 +1,16 @@
+import RPi.GPIO as GPIO
+import time
+
+GPIO.setmode(GPIO.BOARD)
+GPIO.setwarnings(False)
+
+def moter_sec(pin, t):
+  GPIO.setup(pin, GPIO.OUT)
+
+  GPIO.output(pin, True)
+  time.sleep(t) 
+
+  GPIO.cleanup(pin)
+
+moter_sec(23, 3)
+GPIO.cleanup()
