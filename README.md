@@ -20,32 +20,31 @@ The development of an electric height control massage bed based on the artificia
 
 
  - Led  기반 기술 연구 개발
-![image](https://user-images.githubusercontent.com/87688936/168523987-404a26eb-b476-42bb-92e4-3989f95e8e82.png)
+  <img src="https://user-images.githubusercontent.com/87688936/168523987-404a26eb-b476-42bb-92e4-3989f95e8e82.png" width="500"> 
 
 
  - 모터 기반 기술 연구 개발
- ![image](https://user-images.githubusercontent.com/87688936/168524043-82937bcc-eb8b-4a34-88dd-b8cd2bb4c7c0.png)
-
+ <img src="https://user-images.githubusercontent.com/87688936/168524043-82937bcc-eb8b-4a34-88dd-b8cd2bb4c7c0.png" width="500"> 
 
 
  - 블루투스 기반 기술 연구 개발
-![image](https://user-images.githubusercontent.com/87688936/168524058-0b46dfcd-8ebf-4c92-b252-716452c1fa2a.png)
+  <img src="https://user-images.githubusercontent.com/87688936/168524058-0b46dfcd-8ebf-4c92-b252-716452c1fa2a.png" width="500"> 
 
 
 2. 실제 하드웨어 수령
 
  - 침대 하드웨어 수령 
-![image](https://user-images.githubusercontent.com/87688936/168524118-735f2e6b-1fa8-4909-80c5-a7a7db298efe.png)
-
+ <img src="https://user-images.githubusercontent.com/87688936/168524118-735f2e6b-1fa8-4909-80c5-a7a7db298efe.png" width="500"> 
 
 
  - 리모터 및 리모컨 하드웨어 수령 
-![image](https://user-images.githubusercontent.com/87688936/168524128-4c8e0ae5-2dd8-46c3-8cde-cda93198775b.png)
+  <img src="https://user-images.githubusercontent.com/87688936/168524128-4c8e0ae5-2dd8-46c3-8cde-cda93198775b.png" width="500"> 
 
 
 
 3. 개별 기술 통합 작업
-![image](https://user-images.githubusercontent.com/87688936/168524132-b0c40e21-0e73-4988-91d5-18417592f67e.png)
+ <img src="https://user-images.githubusercontent.com/87688936/168524132-b0c40e21-0e73-4988-91d5-18417592f67e.png" width="500"> 
+
 
 
 
